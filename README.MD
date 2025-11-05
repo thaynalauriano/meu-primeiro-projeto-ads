@@ -1,4 +1,4 @@
-# 📌 Projeto: Cadastro de Usuários (HTML + CSS + JavaScript)
+# Projeto: Cadastro de Usuários (HTML + CSS + JavaScript)
 
 Este é um projeto simples desenvolvido para estudos no curso de **Análise e Desenvolvimento de Sistemas**, com o objetivo de praticar:
 
@@ -10,7 +10,7 @@ Este é um projeto simples desenvolvido para estudos no curso de **Análise e De
 
 ---
 
-## ✅ Como funciona
+## Como funciona
 - O usuário digita um nome no campo de texto  
 - Clica em **Cadastrar**  
 - O nome aparece imediatamente na lista  
@@ -18,14 +18,15 @@ Este é um projeto simples desenvolvido para estudos no curso de **Análise e De
 
 ---
 
-## 🚀 Como executar
+## Como executar
 1. Baixe este repositório ou clone via Git  
 2. Abra o arquivo **index.html** no navegador  
-3. Comece a cadastrar nomes 😊  
+3. Comece a cadastrar nomes 
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## Desenvolvido por
 **Thayná Lauriano**
 
 Projeto destinado ao portfólio profissional na área de Tecnologia.
+
